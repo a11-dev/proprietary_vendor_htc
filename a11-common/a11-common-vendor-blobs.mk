@@ -54,6 +54,8 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/vendor/lib/libadiertac.so:/system/vendor/lib/libadiertac.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libaudcal.so:/system/vendor/lib/libaudcal.so \
         vendor/htc/a11-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:/system/vendor/lib/soundfx/libqcbassboost.so \
+        vendor/htc/a11-common/proprietary/vendor/lib/soundfx/libqcvirt.so:/system/vendor/lib/soundfx/libqcvirt.so \
+        vendor/htc/a11-common/proprietary/vendor/lib/soundfx/libqcreverb.so:/system/vendor/lib/soundfx/libqcreverb.so \
         vendor/htc/a11-common/proprietary/bin/hci_qcomm_init:/system/bin/hci_qcomm_init \
         vendor/htc/a11-common/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
         vendor/htc/a11-common/proprietary/etc/firmware/ILP0100_IPM_Code_out.bin:/system/etc/firmware/ILP0100_IPM_Code_out.bin \
