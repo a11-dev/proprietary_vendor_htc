@@ -210,4 +210,5 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:/system/vendor/lib/libWVStreamControlAPI_L3.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libwvdrm_L3.so:/system/vendor/lib/libwvdrm_L3.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
-        vendor/htc/a11-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so \
+        vendor/htc/a11-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
+        vendor/htc/a11-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so
