@@ -127,6 +127,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/lib/libloc_api_v02.so:/system/lib/libloc_api_v02.so \
         vendor/htc/a11-common/proprietary/lib/libloc_core.so:/system/lib/libloc_core.so \
         vendor/htc/a11-common/proprietary/lib/libloc_ds_api.so:/system/lib/libloc_ds_api.so \
+        vendor/htc/a11-common/proprietary/lib/libril.so:/system/lib/libril.so \
         vendor/htc/a11-common/proprietary/lib/libloc_eng.so:/system/lib/libloc_eng.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libgeofence.so:/system/vendor/lib/libgeofence.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libizat_core.so:/system/vendor/lib/libizat_core.so \
