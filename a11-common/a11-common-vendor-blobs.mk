@@ -189,11 +189,11 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/etc/firmware/dxhdcp2.b02:/system/etc/firmware/dxhdcp2.b02 \
         vendor/htc/a11-common/proprietary/etc/firmware/dxhdcp2.b03:/system/etc/firmware/dxhdcp2.b03 \
         vendor/htc/a11-common/proprietary/etc/firmware/dxhdcp2.mdt:/system/etc/firmware/dxhdcp2.mdt \
-        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster.b00:/system/vendor/firmware/keymaster.b00 \
-        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster.b01:/system/vendor/firmware/keymaster.b01 \
-        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster.b02:/system/vendor/firmware/keymaster.b02 \
-        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster.b03:/system/vendor/firmware/keymaster.b03 \
-        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster.mdt:/system/vendor/firmware/keymaster.mdt \
+        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster/keymaster.b00:/system/vendor/firmware/keymaster/keymaster.b00 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster/keymaster.b01:/system/vendor/firmware/keymaster/keymaster.b01 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster/keymaster.b02:/system/vendor/firmware/keymaster/keymaster.b02 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster/keymaster.b03:/system/vendor/firmware/keymaster/keymaster.b03 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/keymaster/keymaster.mdt:/system/vendor/firmware/keymaster/keymaster.mdt \
         vendor/htc/a11-common/proprietary/vendor/lib/libQSEEComAPI.so:/system/vendor/lib/libQSEEComAPI.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libdrmfs.so:/system/vendor/lib/libdrmfs.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libdrmtime.so:/system/vendor/lib/libdrmtime.so \
