@@ -122,6 +122,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/vendor/lib/liboemcamera.so:/system/vendor/lib/liboemcamera.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libqomx_jpegdec.so:/system/vendor/lib/libqomx_jpegdec.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libqomx_jpegenc.so:/system/vendor/lib/libqomx_jpegenc.so \
+        vendor/htc/a11-common/proprietary/vendor/lib/libqti-perfd-client.so:/system/vendor/lib/libqti-perfd-client.so \
         vendor/htc/a11-common/proprietary/lib/hw/gps.default.so:/system/lib/hw/gps.default.so \
         vendor/htc/a11-common/proprietary/lib/libgps.utils.so:/system/lib/libgps.utils.so \
         vendor/htc/a11-common/proprietary/lib/libloc_api_v02.so:/system/lib/libloc_api_v02.so \
