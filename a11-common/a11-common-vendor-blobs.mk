@@ -173,6 +173,11 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/bin/mpdecision:/system/bin/mpdecision \
         vendor/htc/a11-common/proprietary/vendor/lib/libthermalclient.so:/system/vendor/lib/libthermalclient.so \
         vendor/htc/a11-common/proprietary/lib/hw/sensors.msm8226.so:/system/lib/hw/sensors.msm8226.so \
+        vendor/htc/a11-common/proprietary/lib/libsensorservice.so:/system/lib/libsensorservice.so \
+        vendor/htc/a11-common/proprietary/bin/bma150_usr:/system/bin/bma150_usr \
+        vendor/htc/a11-common/proprietary/bin/sensorservice:/system/bin/sensorservice \
+        vendor/htc/a11-common/proprietary/etc/sensor_def_qcomdev.conf:/system/etc/sensor_def_qcomdev.conf \
+        vendor/htc/a11-common/proprietary/bin/sensors.qcom:/system/bin/sensors.qcom \
         vendor/htc/a11-common/proprietary/bin/time_daemon:/system/bin/time_daemon \
         vendor/htc/a11-common/proprietary/bin/qseecomd:/system/bin/qseecomd \
         vendor/htc/a11-common/proprietary/etc/firmware/cmnlib.b00:/system/etc/firmware/cmnlib.b00 \
