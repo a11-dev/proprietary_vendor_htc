@@ -212,4 +212,13 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a11-common/proprietary/vendor/lib/libwvdrm_L3.so:/system/vendor/lib/libwvdrm_L3.so \
         vendor/htc/a11-common/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
         vendor/htc/a11-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
-        vendor/htc/a11-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so
+        vendor/htc/a11-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b00:/system/vendor/firmware/wcnss.b00 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b01:/system/vendor/firmware/wcnss.b01 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b02:/system/vendor/firmware/wcnss.b02 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b04:/system/vendor/firmware/wcnss.b04 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b06:/system/vendor/firmware/wcnss.b06 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b07:/system/vendor/firmware/wcnss.b07 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b08:/system/vendor/firmware/wcnss.b08 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.b09:/system/vendor/firmware/wcnss.b09 \
+        vendor/htc/a11-common/proprietary/vendor/firmware/wcnss.mdt:/system/vendor/firmware/wcnss.mdt
